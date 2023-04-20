@@ -10,7 +10,7 @@ MvL6: 4th floor seminar room (1:30 pm)
 
 | Date | Moderator | Title of Paper & Link to Paper | talks.tue | comment |
 |---|---|---|---|---|
-| 2023/04/12 | Tim Xiao | [Trading Information between Latents in Hierarchical Variational Autoencoders](https://arxiv.org/pdf/2302.04855.pdf) | [talks.tue](https://talks.tuebingen.ai/talks/talk/id=378) | *Poster Presentation* |
+| 2023/04/27 | Tim Xiao | [Trading Information between Latents in Hierarchical Variational Autoencoders](https://arxiv.org/pdf/2302.04855.pdf) | [talks.tue](https://talks.tuebingen.ai/talks/talk/id=378) | *Poster Presentation* |
 | 2023/04/12 | Robert Bamler | [Finite Volume Neural Network: Modeling Subsurface Contaminant Transport](https://arxiv.org/pdf/2104.06010.pdf) | [talks.tue](https://talks.tuebingen.ai/talks/talk/id=378) | |
 | 2023/03/30 | Nicolò Zottino | [Peer-to-Peer Variational Federated Learning Over Arbitrary Graphs](https://ieeexplore.ieee.org/document/9825726) | [talks.tue](https://talks.tuebingen.ai/talks/talk/id=364) | |
 | 2023/03/16 | Johannes Zenn | [Langevin Diffusion Variational Inference](https://arxiv.org/pdf/2208.07743.pdf) | [talks.tue](https://talks.tuebingen.ai/talks/talk/id=357) | |
