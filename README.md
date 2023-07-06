@@ -10,7 +10,7 @@ MvL6: 4th floor seminar room (1:30 pm)
 
 | Date | Moderator | Title of Paper & Link to Paper | talks.tue | comment |
 |---|---|---|---|---|
-| 2023/07/06 | Tim Xiao | [DreamFusion: Text-to-3D using 2D Diffusion](https://arxiv.org/pdf/2209.14988.pdf) | [talks.tue](https://talks.tuebingen.ai/talks/talk/id=445) | |
+| 2023/07/20 | Tim Xiao | [DreamFusion: Text-to-3D using 2D Diffusion](https://arxiv.org/pdf/2209.14988.pdf) | [talks.tue](https://talks.tuebingen.ai/talks/talk/id=445) | |
 | 2023/07/06 | Alexander Conzelmann | [From data to functa: Your data point is a function and you can treat it like one](https://arxiv.org/pdf/2201.12204.pdf) | [talks.tue](https://talks.tuebingen.ai/talks/talk/id=444) | |
 | 2023/05/25 | Johannes Zenn | [Diffusion Probabilistic Fields](https://arxiv.org/pdf/2303.00165.pdf) | [talks.tue](https://talks.tuebingen.ai/talks/talk/id=412) | |
 | 2023/04/27 | Tim Xiao<br/><br/>Johannes Zenn | [Trading Information between Latents in Hierarchical Variational Autoencoders](https://arxiv.org/pdf/2302.04855.pdf)<br/><br/>[Resampling Gradients Vanish in Differentiable Sequential Monte Carlo Samplers](https://openreview.net/pdf?id=kBkou5ucR_d) | [talks.tue](https://talks.tuebingen.ai/talks/talk/id=403)<br/><br/><br/>[talks.tue](https://talks.tuebingen.ai/talks/talk/id=405) | *Poster Presentation* |
