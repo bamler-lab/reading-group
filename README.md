@@ -10,6 +10,7 @@ MvL6: 4th floor seminar room (1:30 pm)
 
 | Date | Moderator | Title of Paper & Link to Paper | talks.tue | comment |
 |---|---|---|---|---|
+| 2023/08/17 | Robert Bamler | [Algorithms for the Communication of Samples](https://arxiv.org/pdf/2110.12805.pdf) | [talks.tue](https://talks.tuebingen.ai/talks/talk/id=452) | |
 | 2023/08/10 | Robert Bamler | [Flow Straight and Fast: Learning to Generate and Transfer Data with Rectified Flow](https://arxiv.org/pdf/2209.03003.pdf) | [talks.tue](https://talks.tuebingen.ai/talks/talk/id=451) | |
 | 2023/07/20 | Tim Xiao | [DreamFusion: Text-to-3D using 2D Diffusion](https://arxiv.org/pdf/2209.14988.pdf) | [talks.tue](https://talks.tuebingen.ai/talks/talk/id=445) | |
 | 2023/07/06 | Alexander Conzelmann | [From data to functa: Your data point is a function and you can treat it like one](https://arxiv.org/pdf/2201.12204.pdf) | [talks.tue](https://talks.tuebingen.ai/talks/talk/id=444) | |
