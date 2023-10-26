@@ -12,7 +12,7 @@ MvL6: 4th floor seminar room (1:30 pm)
 |---|---|---|---|---|
 | 2023/10/26 | Tristan Cinquin | [Regularized KL-Divergence for Well-Defined Function Space Variational Inference in BNNs](https://openreview.net/pdf?id=rmFtICfcd8) | [talks.tue](https://talks.tuebingen.ai/talks/talk/id=453) |  |
 | 2023/09/07 | Alexander Ludwig | Neural Data Compression for Magnetic Resonance Imaging | [talks.tue](https://talks.tuebingen.ai/talks/talk/id=454) | *Bachelor's Thesis Presentation* |
-| 2023/08/31 | Nicolò Zottino | Probabilistic Circuits (1/2) | [talks.tue](https://talks.tuebingen.ai/talks/talk/id=453) | *Talk* |
+| 2023/08/31 | Nicolò Zottino | Probabilistic Circuits | [talks.tue](https://talks.tuebingen.ai/talks/talk/id=453) | *Talk* |
 | 2023/08/17 | Robert Bamler | [Algorithms for the Communication of Samples](https://arxiv.org/pdf/2110.12805.pdf) | [talks.tue](https://talks.tuebingen.ai/talks/talk/id=452) | |
 | 2023/08/10 | Robert Bamler | [Flow Straight and Fast: Learning to Generate and Transfer Data with Rectified Flow](https://arxiv.org/pdf/2209.03003.pdf) | [talks.tue](https://talks.tuebingen.ai/talks/talk/id=451) | |
 | 2023/07/20 | Tim Xiao | [DreamFusion: Text-to-3D using 2D Diffusion](https://arxiv.org/pdf/2209.14988.pdf) | [talks.tue](https://talks.tuebingen.ai/talks/talk/id=445) | |
