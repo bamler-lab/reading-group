@@ -10,7 +10,7 @@ MvL6: 4th floor seminar room (1:30 pm)
 
 | Date | Moderator | Title of Paper & Link to Paper | talks.tue | comment |
 |---|---|---|---|---|
-| 2023/10/12 | Nicolò Zottino | Probabilistic Circuits | [talks.tue](https://talks.tuebingen.ai/talks/talk/id=453) | *Tutorial* |
+| 2023/10/26 | Tristan Cinquin | [Regularized KL-Divergence for Well-Defined Function Space Variational Inference in BNNs](https://openreview.net/pdf?id=rmFtICfcd8) | [talks.tue](https://talks.tuebingen.ai/talks/talk/id=453) |  |
 | 2023/09/07 | Alexander Ludwig | Neural Data Compression for Magnetic Resonance Imaging | [talks.tue](https://talks.tuebingen.ai/talks/talk/id=454) | *Bachelor's Thesis Presentation* |
 | 2023/08/31 | Nicolò Zottino | Probabilistic Circuits (1/2) | [talks.tue](https://talks.tuebingen.ai/talks/talk/id=453) | *Talk* |
 | 2023/08/17 | Robert Bamler | [Algorithms for the Communication of Samples](https://arxiv.org/pdf/2110.12805.pdf) | [talks.tue](https://talks.tuebingen.ai/talks/talk/id=452) | |
