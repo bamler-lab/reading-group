@@ -10,6 +10,7 @@ MvL6: 4th floor seminar room (1:30 pm)
 
 | Date | Moderator | Title of Paper & Link to Paper | talks.tue | comment |
 |---|---|---|---|---|
+| 2023/11/30 | Lenard Rommel | Finite Volume Neural Networks for Simple Vortex Problems | [talks.tue](https://talks.tuebingen.ai/talks/talk/id=497) | *Bachelor's Thesis Presentation* |
 | 2023/11/23 | Johannes Zenn | More Faithful Variational Inference via the Initial Distribution of Differentiable Annealed Importance Sampling | [talks.tue](https://talks.tuebingen.ai/talks/talk/id=496) |  |
 | 2023/10/26 | Tristan Cinquin | [Regularized KL-Divergence for Well-Defined Function Space Variational Inference in BNNs](https://openreview.net/pdf?id=rmFtICfcd8) | [talks.tue](https://talks.tuebingen.ai/talks/talk/id=453) |  |
 | 2023/09/07 | Alexander Ludwig | Neural Data Compression for Magnetic Resonance Imaging | [talks.tue](https://talks.tuebingen.ai/talks/talk/id=454) | *Bachelor's Thesis Presentation* |
