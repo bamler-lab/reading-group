@@ -4,12 +4,13 @@
 MvL6: 4th floor seminar room (1:30 pm)
 
 
->The BamlerLab reading group meets biweekly on Thursdays to engage in a comprehensive exploration and interpretation of scholarly works. The material to be examined can be accessed at the following link: https://github.com/bamler-lab/reading-group. Your participation in the group is cordially invited, and should you choose to attend, please feel free to join in the discussion.
+>The BamlerLab reading group meets weekly on Thursdays to engage in a comprehensive exploration and interpretation of scholarly works. The material to be examined can be accessed at the following link: https://github.com/bamler-lab/reading-group. Your participation in the group is cordially invited, and should you choose to attend, please feel free to join in the discussion.
 (description written by ChatGPT)
 
 
 | Date | Moderator | Title of Paper & Link to Paper | talks.tue | comment |
 |---|---|---|---|---|
+| 2023/12/07 | Robert Bamler | Show and Tell Session | [talks.tue](https://talks.tuebingen.ai/talks/talk/id=502) | *Show and Tell Session* |
 | 2023/11/30 | Lenard Rommel | Finite Volume Neural Networks for Simple Vortex Problems | [talks.tue](https://talks.tuebingen.ai/talks/talk/id=497) | *Bachelor's Thesis Presentation* |
 | 2023/11/23 | Johannes Zenn | More Faithful Variational Inference via the Initial Distribution of Differentiable Annealed Importance Sampling | [talks.tue](https://talks.tuebingen.ai/talks/talk/id=496) |  |
 | 2023/10/26 | Tristan Cinquin | [Regularized KL-Divergence for Well-Defined Function Space Variational Inference in BNNs](https://openreview.net/pdf?id=rmFtICfcd8) | [talks.tue](https://talks.tuebingen.ai/talks/talk/id=453) |  |
