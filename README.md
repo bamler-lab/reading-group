@@ -1,7 +1,7 @@
 
 
 # Reading Group @BamlerLab
-MvL6: 4th floor seminar room (Thursday 1:30 pm ($\color{olive}{\textsf{General}}$) and Monday 2:00 pm ($\color{orange}{\textsf{Compression}}$))
+MvL6: 4th floor seminar room (Thursday 1:30 pm ($\color{olive}{\textsf{General}}$) and Monday 3:00 pm ($\color{orange}{\textsf{Compression}}$))
 
 
 >The BamlerLab reading group ($\color{olive}{\textsf{General}}$) meets weekly on Thursdays to engage in a comprehensive exploration and interpretation of scholarly works. The material to be examined can be accessed at the following link: https://github.com/bamler-lab/reading-group. Your participation in the group is cordially invited, and should you choose to attend, please feel free to join in the discussion.
