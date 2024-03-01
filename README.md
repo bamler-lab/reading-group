@@ -15,7 +15,7 @@ We thank ChatGPT for writing this description.
 
 | Date | Moderator | Title of Paper & Link to Paper | talks.tue | comment | reading group |
 |---|---|---|---|---|---|
-| 2024/03/07 | Johannes Zenn | [Diffusion Schrödinger Bridge with Applications to Score-Based Generative Modeling](https://arxiv.org/abs/2106.01357) | [talks.tue](https://talks.tuebingen.ai/talks/talk/id=530) | | $\color{olive}{\textsf{General}}$ |
+| 2024/03/07 | Johannes Zenn | [Diffusion Schrödinger Bridge Matching](https://arxiv.org/pdf/2303.16852.pdf) | [talks.tue](https://talks.tuebingen.ai/talks/talk/id=530) | | $\color{olive}{\textsf{General}}$ |
 | 2024/03/04 | all participants | [Bit-Swap: Recursive Bits-Back Coding for Lossless Compression with Hierarchical Latent Variables](https://arxiv.org/pdf/1905.06845.pdf) | [talks.tue](https://talks.tuebingen.ai/talks/talk/id=529) | | $\color{orange}{\textsf{Compression}}$ |
 | 2024/02/29 | Alexander Conzelmann | [Learning Generative Models with Sinkhorn Divergences](https://arxiv.org/pdf/1706.00292.pdf) | [talks.tue](https://talks.tuebingen.ai/talks/talk/id=528) | | $\color{olive}{\textsf{General}}$ |
 | 2024/02/26 | all participants | [Wasserstein Distortion: Unifying Fidelity and Realism](https://arxiv.org/pdf/2310.03629.pdf) | N/A | | $\color{orange}{\textsf{Compression}}$ |
