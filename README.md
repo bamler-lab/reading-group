@@ -13,8 +13,9 @@ We thank ChatGPT for writing this description.
 
 | Date | Moderator | Title of Paper & Link to Paper | talks.tue | comment | reading group |
 |---|---|---|---|---|---|
+| 2024/03/25 | all participants | [Lossy Compression with Gaussian Diffusion](https://arxiv.org/abs/2206.08889) | [talks.tue](https://talks.tuebingen.ai/talks/talk/id=543) | Part 2/2 | $\color{orange}{\textsf{Compression}}$ |
 | 2024/03/21 | Tristan Cinquin | [Bayesian Model Selection, the Marginal Likelihood, and Generalization](https://arxiv.org/abs/2202.11678) | [talks.tue](https://talks.tuebingen.ai/talks/talk/id=539) |  | $\color{olive}{\textsf{General}}$ |
-| 2024/03/18 | all participants | [Lossy Compression with Gaussian Diffusion](https://arxiv.org/abs/2206.08889) | [talks.tue](https://talks.tuebingen.ai/talks/talk/id=536) | | $\color{orange}{\textsf{Compression}}$ |
+| 2024/03/18 | all participants | [Lossy Compression with Gaussian Diffusion](https://arxiv.org/abs/2206.08889) | [talks.tue](https://talks.tuebingen.ai/talks/talk/id=536) | Part 1/2 | $\color{orange}{\textsf{Compression}}$ |
 | 2024/03/14 | Johannes Zenn | [Diffusion Schrödinger Bridge Matching](https://arxiv.org/pdf/2303.16852.pdf) | [talks.tue](https://talks.tuebingen.ai/talks/talk/id=535) | Part 2/2 | $\color{olive}{\textsf{General}}$ |
 | 2024/03/11 | all participants | [Language Modeling is Compression](https://arxiv.org/abs/2309.10668) | [talks.tue](https://talks.tuebingen.ai/talks/talk/id=533) | | $\color{orange}{\textsf{Compression}}$ |
 | 2024/03/07 | Johannes Zenn | [Diffusion Schrödinger Bridge Matching](https://arxiv.org/pdf/2303.16852.pdf) | [talks.tue](https://talks.tuebingen.ai/talks/talk/id=530) | Part 1/2 | $\color{olive}{\textsf{General}}$ |
