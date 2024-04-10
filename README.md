@@ -13,6 +13,8 @@ We thank ChatGPT for writing this description.
 
 | Date | Moderator | Title of Paper & Link to Paper | talks.tue | comment | reading group |
 |---|---|---|---|---|---|
+| 2024/04/15 | all participants | [Universal Deep Neural Network Compression
+](https://arxiv.org/pdf/1802.02271.pdf) | [talks.tue](https://talks.tuebingen.ai/talks/talk/id=562) |  | $\color{orange}{\textsf{Compression}}$ |
 | 2024/04/11 | Alexander Conzelmann | [Intrinsic Dimensionality Explains the Effectiveness of Language Model Fine-Tuning](https://arxiv.org/abs/2012.13255) | [talks.tue](https://talks.tuebingen.ai/talks/talk/id=559) |  | $\color{olive}{\textsf{General}}$ |
 | 2024/04/08 | all participants | [Lossy Compression with Gaussian Diffusion](https://arxiv.org/abs/2206.08889) | [talks.tue](https://talks.tuebingen.ai/talks/talk/id=543) | Part 2/2 | $\color{orange}{\textsf{Compression}}$ |
 | 2024/04/04 | Tim Xiao | [LoRA: Low-Rank Adaptation of Large Language Models](https://arxiv.org/abs/2106.09685) | [talks.tue](https://talks.tuebingen.ai/talks/talk/id=553) |  | $\color{olive}{\textsf{General}}$ |
