@@ -13,6 +13,7 @@ We thank ChatGPT for writing this description.
 
 | Date | Moderator | Title of Paper & Link to Paper | talks.tue | comment | reading group |
 |---|---|---|---|---|---|
+| 2024/05/13 | all participants | [Lossy Image Compression with Conditional Diffusion Models](https://arxiv.org/abs/2209.06950) | [talks.tue](https://talks.tuebingen.ai/talks/talk/id=581) |  | $\color{orange}{\textsf{Compression}}$ |
 | 2024/05/06 | all participants | [Out-of-Distribution Detection using Maximum Entropy Coding](https://www.arxiv.org/pdf/2404.17023) | [talks.tue](https://talks.tuebingen.ai/talks/talk/id=578) |  | $\color{orange}{\textsf{Compression}}$ |
 | 2024/04/29 | all participants | [On universal quantization](https://ieeexplore.ieee.org/document/1057034) | [talks.tue](https://talks.tuebingen.ai/talks/talk/id=573) |  | $\color{orange}{\textsf{Compression}}$ |
 | 2024/04/22 | all participants | [Universal Deep Neural Network Compression](https://arxiv.org/pdf/1802.02271.pdf) | [talks.tue](https://talks.tuebingen.ai/talks/talk/id=562) |  | $\color{orange}{\textsf{Compression}}$ |
