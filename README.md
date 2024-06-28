@@ -14,6 +14,7 @@ We thank ChatGPT for writing this description.
 | Date | Moderator | Title of Paper & Link to Paper | talks.tue | comment | reading group |
 |---|---|---|---|---|---|
 | 2024/07/08 | all participants | [The No Free Lunch Theorem, Kolmogorov Complexity, and the Role of Inductive Biases in Machine Learning](https://arxiv.org/abs/2304.05366) | [talks.tue](https://talks.tuebingen.ai/talks/talk/id=637) |  | $\color{orange}{\textsf{Compression}}$ |
+| 2024/07/04 | Robert Bamler | [Randomized Algorithms for Matrix Computations (Chapters 1-3)](https://tropp.caltech.edu/notes/Tro20-Randomized-Algorithms-LN.pdf) | [talks.tue](https://talks.tuebingen.ai/talks/talk/id=639) |  | $\color{olive}{\textsf{General}}$ |
 | 2024/06/24 | all participants | [Distribution Compression in Near-linear Time](https://arxiv.org/abs/2111.07941) | [talks.tue](https://talks.tuebingen.ai/talks/talk/id=634) |  | $\color{orange}{\textsf{Compression}}$ |
 | 2024/06/17 | all participants | [Estimating the Rate-Distortion Function by Wasserstein Gradient Descent](https://arxiv.org/abs/2310.18908) | [talks.tue](https://talks.tuebingen.ai/talks/talk/id=582) |  | $\color{orange}{\textsf{Compression}}$ |
 | 2024/05/13 | all participants | [Lossy Image Compression with Conditional Diffusion Models](https://arxiv.org/abs/2209.06950) | [talks.tue](https://talks.tuebingen.ai/talks/talk/id=581) |  | $\color{orange}{\textsf{Compression}}$ |
