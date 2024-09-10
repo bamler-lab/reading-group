@@ -13,6 +13,7 @@ We thank ChatGPT for writing this description.
 
 | Date | Moderator | Title of Paper & Link to Paper | talks.tue | comment | reading group |
 |---|---|---|---|---|---|
+| 2024/08/08 | all participants | Experiences and Trends at ICML 2023 | N/A | | $\color{olive}{\textsf{General}}$ |
 | 2024/08/08 | Robert Bamler | [Discrete Diffusion Modeling by Estimating the Ratios of the Data Distribution](https://arxiv.org/abs/2310.16834) | [talks.tue](https://talks.tuebingen.ai/talks/talk/id=655) |  | $\color{olive}{\textsf{General}}$ |
 | 2024/07/29 | all participants | [Neural Discrete Representation Learning](https://arxiv.org/pdf/1711.00937) | [talks.tue](https://talks.tuebingen.ai/talks/talk/id=651) |  | $\color{orange}{\textsf{Compression}}$ |
 | 2024/07/15 | all participants | [The No Free Lunch Theorem, Kolmogorov Complexity, and the Role of Inductive Biases in Machine Learning](https://arxiv.org/abs/2304.05366) | [talks.tue](https://talks.tuebingen.ai/talks/talk/id=637) |  | $\color{orange}{\textsf{Compression}}$ |
