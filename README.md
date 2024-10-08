@@ -1,4 +1,11 @@
-# Reading Group @BamlerLab
+# This page has moved [here](https://bamler-lab.github.io/reading_group)
+
+Please visit the current reading group webpage at https://bamler-lab.github.io/reading_group.
+
+The list below is **no longer being updated**.
+
+
+## Reading Group @BamlerLab
 MvL6: 4th floor seminar room (Thursday 1:30 pm ($\color{olive}{\textsf{General}}$) and Monday 3:00 pm ($\color{orange}{\textsf{Compression}}$))
 
 
@@ -9,7 +16,7 @@ MvL6: 4th floor seminar room (Thursday 1:30 pm ($\color{olive}{\textsf{General}}
 
 We thank ChatGPT for writing this description.
 
-# 2024 
+## 2024 
 
 | Date | Moderator | Title of Paper & Link to Paper | talks.tue | comment | reading group |
 |---|---|---|---|---|---|
@@ -42,7 +49,7 @@ We thank ChatGPT for writing this description.
 | 2024/01/11 | Tim Xiao<br/>&amp;<br/>Johannes Zenn | Experiences and Trends at NeurIPS 2023  | N/A | | $\color{olive}{\textsf{General}}$ |
 
 
-# 2023 
+## 2023 
 
 | Date | Moderator | Title of Paper & Link to Paper | talks.tue | comment | reading group |
 |---|---|---|---|---|---|
